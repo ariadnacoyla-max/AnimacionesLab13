@@ -38,9 +38,9 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     containerColor = FondoLila
                 ) { innerPadding ->
-                    PantallaAnimacion(
+                    PantallaEjercicio2(
                         modifier = Modifier.padding(innerPadding)
-                    )
+                                        )
                 }
             }
         }
