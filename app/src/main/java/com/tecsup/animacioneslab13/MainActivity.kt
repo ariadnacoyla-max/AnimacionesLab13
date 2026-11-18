@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     containerColor = FondoLila
                 ) { innerPadding ->
-                    PantallaEjercicio3(
+                    PantallaEjercicio4(
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
